@@ -25,7 +25,11 @@ The CS50x Certificate is endorsed by the Hardvard University and EDX. This cours
 <p>Includes three C programs to recognize the brand of a credit card, based on the credit card number. A progam to print a pyramid based on an input, and the basic hello.</p>
 
 ### pset2 - Project Set number 2
-<p>Includes three C programs to recognize the brand of a credit card, based on the credit card number. A progam to print a pyramid based on an input, and the basic hello.</p>
+<p>Arrays in C. There are two programs:</p> 
+
+- <em>Readability</em>  is  a program that calculates the approximate grade level needed to comprehend some text. It implements the the Coleman-Liau index Test. The formula is:  index = 0.0588 * L - 0.296 * S - 15.8, where L is the average number of letters per 100 words in the text, and S is the average number of sentences per 100 words in the text.
+
+
 
 ### pset1 - Project Set number 1
 <p>Includes three C programs to recognize the brand of a credit card, based on the credit card number. A progam to print a pyramid based on an input, and the basic hello.</p>
