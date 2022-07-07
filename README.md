@@ -15,6 +15,8 @@ The CS50x Certificate is endorsed by the Hardvard University and EDX. This cours
 
 <h2>Components</h2>
 
+<hr />
+
 ### pset5 - Project Set number 5
 <p>Data Strutures</p>
 
@@ -24,6 +26,8 @@ This project includes two programs:
 
 - <em>Speller</em> Implements a program that spell-checks a file, using a hash table.
 
+<hr />
+
 ### pset4 - Project Set number 4
 <p>Memory Management</p>
 
@@ -32,6 +36,7 @@ This project includes two programs:
 - <em>Filter</em> Implements a program that applies filters to BMPs. This program creates efects in an image like: grayscale, reflection, blur, and edges.
 
 - <em>Recover</em> Implement a program that recovers JPEGs from a forensic image. 
+<hr />
 
 ### pset3 - Project Set number 3
 <p>Algorithms in C</p>
