@@ -10,19 +10,32 @@
 
 <h2>Project Description</h2>
 
-<p>This repository includes five (of nine) projects created in C Language, as a requirement for the CS50x Certificate.
+<p>This repository includes five projects created in C Language, as a requirement for the CS50x Certificate.
 The CS50x Certificate is endorsed by the Hardvard University and EDX. This course is an Introduction to the intellectual enterprises of computer science and the art of programming.</p>
 
 <h2>Components</h2>
 
 ### pset5 - Project Set number 5
-<p>Includes three C programs to recognize the brand of a credit card, based on the credit card number. A progam to print a pyramid based on an input, and the basic hello.</p>
+<p>Data Strutures</p>
+
+This project includes two programs:
+
+- <em>Inheritance</em> Simulates the inheritance of blood types for each member of a family.
+
+- <em>Speller</em> Implements a program that spell-checks a file, using a hash table.
 
 ### pset4 - Project Set number 4
-<p>Includes three C programs to recognize the brand of a credit card, based on the credit card number. A progam to print a pyramid based on an input, and the basic hello.</p>
+<p>Memory Management</p>
+
+This project includes two programs:
+
+- <em>Filter</em> Implements a program that applies filters to BMPs. This program creates efects in an image like: grayscale, reflection, blur, and edges.
+
+- <em>Recover</em> Implement a program that recovers JPEGs from a forensic image. 
 
 ### pset3 - Project Set number 3
 <p>Algorithms in C</p>
+
 There are two programs that implememt a plurality election.
 
 - <em>Plurality</em>  Perhaps the simplest way to hold an election. is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election.
