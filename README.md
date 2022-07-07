@@ -3,6 +3,7 @@
 
 <h2>Author</h2>
 **William Bernal**
+
 - [Profile](https://github.com/wjbernal "William Bernal")
 - [Email](mailto:wjbernals@gmail.com?subject=Hi% "Hi! from your GitHub")
 - [Website](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")
